@@ -6,3 +6,9 @@
 ### They are way to identify errors
 -  potential error: to identify potential errors look into user input validation, command execution or the file operations.
 - conditional statement: using a condition statement to check for errors.
+
+![error](./IMGS/error.jpg)
+
+![error](./IMGS/error1.jpg)
+
+![error](./IMGS/error2.jpg)
